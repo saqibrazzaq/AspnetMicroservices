@@ -13,7 +13,7 @@
 
         public ShoppingCart(string username)
         {
-
+            UserName = username;
         }
 
         public decimal TotalPrice 
